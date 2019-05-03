@@ -1,4 +1,4 @@
-# Homing Pigeon
+# Homing Pigeon Python
 
 This is a utility wrapper package for [Homing Pigeon](https://homingpigeon.herokuapp.com) website.
 
